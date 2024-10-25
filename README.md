@@ -1,9 +1,9 @@
 ## Hi People 👋
 
 
-- 🔭 I know how to work with data :)
+- 🔭 I know how to work with data and delivery insights from it:)
  
-- 🌱 Currently with skills in Python, SQL, Power BI, Git, cloud, and more
+- 🌱 Currently with skills in Python, SQL, PowerBi, Superset, Looker, Tableau, Git, Snowflake, and more
 
 - 📫 How to reach me on LinkedIn: @João Vitor Pinheiro Ocker
 
